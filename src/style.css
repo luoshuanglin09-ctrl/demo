@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+  list-style: none;
+  text-decoration: none;
+  outline: none;
+  box-sizing: border-box;
+  /* background:linear-gradient(to bottom,#e77c8e,#c9d8e3);
+   */
+  /* background-image:url('./assets/images/14004_26cd95889e.jpg'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
